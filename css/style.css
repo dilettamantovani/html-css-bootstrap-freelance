@@ -1,0 +1,18 @@
+#avatar { width: 9rem; }
+
+.white_line {
+    width: 7rem;
+    height: 0.1rem;
+}
+
+/************* FONT-SIZE *************/
+.fs_07 { font-size: 0.7rem; }
+
+
+/************* BG-COLOR *************/
+.bg_header { background-color: #2C3E50; }
+.bg_aqua { background-color: #1ABC9C; }
+
+
+
+
