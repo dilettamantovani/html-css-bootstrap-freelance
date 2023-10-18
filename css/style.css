@@ -9,10 +9,13 @@
 .fs_07 { font-size: 0.7rem; }
 
 
+/************* TEXT-COLOR *************/
+.text_darkblue { background-color: #2C3E50; }
+
 /************* BG-COLOR *************/
 .bg_header { background-color: #2C3E50; }
 .bg_aqua { background-color: #1ABC9C; }
-
+.bg_darkblue { background-color: #2C3E50; }
 
 
 
