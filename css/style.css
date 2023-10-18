@@ -7,18 +7,22 @@
     height: 0.1rem;
 }
 
+/************* HOVER *************/
+#download_btn:hover { color: #1ABC9C !important}
+#social:hover i { color: #3A546D !important }
+
 /************* FONT-SIZE *************/
 .fs_07 { font-size: 0.7rem; }
 
 
 /************* TEXT-COLOR *************/
 .text_darkblue { color: #2C3E50; }
+.text_aqua { color: #1ABC9C; }
 
 /************* BG-COLOR *************/
-.bg_header { background-color: #2C3E50; }
-.bg_aqua { background-color: #1ABC9C; }
 .bg_darkblue { background-color: #2C3E50; }
-.bg_footer { background-color: #3A546D; }
+.bg_aqua { background-color: #1ABC9C; }
+.bg_footer1 { background-color: #3A546D; }
 
 
 
