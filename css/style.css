@@ -1,7 +1,14 @@
+/* Start Bootstrap */
 #avatar { width: 9rem; }
 
-.white_line {
-    width: 7rem;
+#startBootstrap span { 
+    font-size: 0.9rem; 
+    font-weight: 500;
+}
+
+/************* GENERICS *************/
+.star_line {
+    width: 6rem;
     height: 0.1rem;
 }
 
