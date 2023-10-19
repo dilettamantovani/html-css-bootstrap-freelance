@@ -10,7 +10,13 @@
 #sendBtn { color: white; }
 
 /* Footer */
-
+.socialBtn { 
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 1rem;
+    width: 2.7rem;
+    font-size: 0.7em;
+}
 
 /************* GENERICS *************/
 .star_line {
@@ -22,7 +28,10 @@ textarea { width: 100%; }
 
 /************* HOVER *************/
 #download_btn:hover { color: #1ABC9C !important}
-#social:hover i { color: #3A546D !important }
+.socialBtn:hover { 
+    background-color: white;
+    color: #3A546D !important;
+}
 #sendBtn:hover {
     color: #1ABC9C;
     background-color: white;
